@@ -1,4 +1,4 @@
-invoke==0.14.0
+invoke
 ipython==5.1.0
 numpy==1.11.2
 pandas==0.19.1
